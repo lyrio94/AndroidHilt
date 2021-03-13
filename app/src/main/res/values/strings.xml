@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidHilt</string>
+    <string name="recuperar_localizacao">Recuperar Localização</string>
+    <string name="carregar">Carregar</string>
+    <string name="personagem">Personagem:</string>
+    <string name="localiza_o">Localização</string>
+</resources>
